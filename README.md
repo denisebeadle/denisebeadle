@@ -1,5 +1,5 @@
  👋 Hi, I’m @denisebeadle 💞️
-  👀 I work in different projects and technologies
+  I work in different projects and technologies
   Such as: 
   - On Premises and Off Premises Databases
   
