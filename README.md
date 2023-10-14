@@ -1,7 +1,6 @@
- 👋 Hi, I’m @denisebeadle 💞️
+ 👋 Hi, I’m @denisebeadle 💞️ Data Engineer / Senior DataOpsEngineer
   I work in different projects and technologies
-  Such as: 
-  - On Premises and Off Premises Databases
+
   
  📫 denise.beadle@outlook.com 
 
